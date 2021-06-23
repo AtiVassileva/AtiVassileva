@@ -1,6 +1,6 @@
 ### 👋 Hello, welcome to my Github!
 <p align="center">
-   <br> <strong> 💻 Student at Software University </strong> 💻<br>
+   <strong> 💻 Student at Software University </strong> 💻<br>
    <strong>💯 My stack: </strong>
    <br>
    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
