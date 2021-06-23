@@ -1,5 +1,5 @@
 <p align="center">
-   <br> <strong> 💻 Student at Software University </strong> 💻<br> 💯 C# and JavaScript Lover 💯
+   <br> <strong> 💻 Student at Software University </strong> 💻<br> <strong> 💯 C# and JavaScript Lover 💯 </strong>
       <br>
    <br>
            
