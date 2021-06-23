@@ -33,7 +33,7 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=AtiVassileva&theme=dark" />
 </a>
-
+<br>
   Certificates | 
 --- | 
 <a href="https://softuni.bg/certificates/certificates/converttoimage/74078?code=cea82727" target="_blank">Programming Basics with C# November 2019</a> | 
