@@ -14,7 +14,8 @@
    <br> 
    <strong>📲Contact me: </strong>
    <a href="https://www.facebook.com/ati.vassileva21"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
-   
+   <br>
+   <br>
    <img width="200" height="150" src="https://media.giphy.com/media/WUTywPPYZpdDChyBaZ/giphy.gif">
    <img width="200" height="150" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
    <img width="200" height="150" src="https://media.giphy.com/media/WUTywPPYZpdDChyBaZ/giphy.gif">
