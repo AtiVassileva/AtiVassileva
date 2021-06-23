@@ -39,5 +39,5 @@
 <a href="https://softuni.bg/certificates/certificates/converttoimage/97961?code=00a88706" target="_blank">MS SQL January 2021</a> |
 <a href="https://softuni.bg/certificates/certificates/converttoimage/102681?code=0d6d7b5a" target="_blank">Entity Framework Core February 2021</a> |
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AtiVassileva&layout=compact&theme=radic")](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AtiVassileva&layout=compact&theme=dark")](https://github.com/anuraghazra/github-readme-stats)
    
