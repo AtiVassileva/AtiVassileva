@@ -1,4 +1,4 @@
-### Hello, welcome to my Github!
+### 👋 Hello, welcome to my Github!
 <p align="center">
    <br> <strong> 💻 Student at Software University </strong> 💻<br>
    <strong>💯 My stack: </strong>
@@ -23,6 +23,7 @@
    <img width="200" height="150" src="https://media.giphy.com/media/WUTywPPYZpdDChyBaZ/giphy.gif">
    <img width="200" height="150" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
    <img width="200" height="150" src="https://media.giphy.com/media/WUTywPPYZpdDChyBaZ/giphy.gif">
+  </p>
   
   Certificates | 
 --- | 
@@ -39,4 +40,3 @@
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AtiVassileva&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
    
-</p>
