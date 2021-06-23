@@ -12,8 +12,8 @@
    <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=dot-net&logoColor=white">
    <br>
    <br> 
-   <strong>📲Contact me: </strong>
-   <a href="https://www.facebook.com/ati.vassileva21"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+   <strong>📲Contact me:  </strong>
+   <a href="https://www.facebook.com/ati.vassileva21" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
    <br>
    <br>
    <img width="200" height="150" src="https://media.giphy.com/media/WUTywPPYZpdDChyBaZ/giphy.gif">
