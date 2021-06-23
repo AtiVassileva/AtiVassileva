@@ -1,5 +1,5 @@
 <p align="center">
-   <br> 💻 Student at SoftwareUniversity 💻<br> 💯 C# and JavaScript Lover 💯
+   <br> 💻 Student at Software University 💻<br> 💯 C# and JavaScript Lover 💯
       <br>
    <br>
            
