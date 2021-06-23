@@ -26,8 +26,7 @@
    <img width="200" height="150" src="https://media.giphy.com/media/WUTywPPYZpdDChyBaZ/giphy.gif">
   </p>
   
-<a href="https://github.com/anuraghazra/github-readme-stats">
-   Certificates | 
+  Certificates | 
 --- | 
 <a href="https://softuni.bg/certificates/certificates/converttoimage/74078?code=cea82727" target="_blank">Programming Basics with C# November 2019</a> | 
 <a href="https://softuni.bg/certificates/certificates/converttoimage/80051?code=0d377f34" target="_blank">C# Fundamentals January 2020</a> |
@@ -39,6 +38,8 @@
 <a href="https://softuni.bg/certificates/certificates/converttoimage/92115?code=73e5b74d" target="_blank">Data Structures Advanced October 2020</a> | 
 <a href="https://softuni.bg/certificates/certificates/converttoimage/97961?code=00a88706" target="_blank">MS SQL January 2021</a> |
 <a href="https://softuni.bg/certificates/certificates/converttoimage/102681?code=0d6d7b5a" target="_blank">Entity Framework Core February 2021</a> |
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtiVassileva&layout=compact&theme=dark" />
 </a>
 
