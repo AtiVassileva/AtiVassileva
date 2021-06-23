@@ -40,8 +40,8 @@
   Certificates | 
 --- | 
 <a href="https://softuni.bg/certificates/certificates/converttoimage/74078?code=cea82727" target="_blank">Programming Basics with C# November 2019</a>
-<a href="https://softuni.bg/certificates/certificates/converttoimage/80051?code=0d377f34" target="_blank">C# Fundamentals January 2020</a> |
-<a href="https://softuni.bg/certificates/certificates/converttoimage/83264?code=e41a0806" target="_blank">C# Advanced May 2020</a> |
+<a href="https://softuni.bg/certificates/certificates/converttoimage/80051?code=0d377f34" target="_blank">C# Fundamentals January 2020</a> 
+<a href="https://softuni.bg/certificates/certificates/converttoimage/83264?code=e41a0806" target="_blank">C# Advanced May 2020</a> 
 <a href="https://softuni.bg/certificates/certificates/converttoimage/86563?code=f68c6e22" target="_blank">C# OOP June 2020</a> |
 <a href="https://softuni.bg/certificates/certificates/converttoimage/90518?code=9c399e7d" target="_blank">JS Advanced September 2020</a> | 
 <a href="https://softuni.bg/certificates/certificates/converttoimage/95176?code=b10ab938" target="_blank">JS Applications October 2020</a> | 
