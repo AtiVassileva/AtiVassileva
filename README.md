@@ -1,5 +1,5 @@
 <p align="center">
-   <br> 💻 Student at SoftwareUniversity 💻<br> <br> C# and JavaScript Lover
+   <br> 💻 Student at SoftwareUniversity 💻<br> C# and JavaScript Lover
       <br>
            
    <img width="200" height="150" src="https://media.giphy.com/media/WUTywPPYZpdDChyBaZ/giphy.gif">
