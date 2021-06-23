@@ -33,13 +33,12 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=AtiVassileva&theme=dark" />
 </a>
-<br>
-<br>
-<br>
+
 
   Certificates | 
 --- | 
-<a href="https://softuni.bg/certificates/certificates/converttoimage/74078?code=cea82727" target="_blank">Programming Basics with C# November 2019</a>|<a href="https://softuni.bg/certificates/certificates/converttoimage/80051?code=0d377f34" target="_blank">C# Fundamentals January 2020</a> 
+<a href="https://softuni.bg/certificates/certificates/converttoimage/74078?code=cea82727" target="_blank">Programming Basics with C# November 2019</a>
+<a href="https://softuni.bg/certificates/certificates/converttoimage/80051?code=0d377f34" target="_blank">C# Fundamentals January 2020</a> 
 <a href="https://softuni.bg/certificates/certificates/converttoimage/83264?code=e41a0806" target="_blank">C# Advanced May 2020</a> 
 <a href="https://softuni.bg/certificates/certificates/converttoimage/86563?code=f68c6e22" target="_blank">C# OOP June 2020</a> 
 <a href="https://softuni.bg/certificates/certificates/converttoimage/90518?code=9c399e7d" target="_blank">JS Advanced September 2020</a>  
