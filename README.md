@@ -11,7 +11,10 @@
    <img src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
    <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=dot-net&logoColor=white">
    <br>
-        <br>    
+   <br> 
+   <strong>📲Contact me: </strong>
+   <a href="https://www.facebook.com/ati.vassileva21"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+   
    <img width="200" height="150" src="https://media.giphy.com/media/WUTywPPYZpdDChyBaZ/giphy.gif">
    <img width="200" height="150" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
    <img width="200" height="150" src="https://media.giphy.com/media/WUTywPPYZpdDChyBaZ/giphy.gif">
