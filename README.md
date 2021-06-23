@@ -23,7 +23,6 @@
    <img width="200" height="150" src="https://media.giphy.com/media/WUTywPPYZpdDChyBaZ/giphy.gif">
    <img width="200" height="150" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
    <img width="200" height="150" src="https://media.giphy.com/media/WUTywPPYZpdDChyBaZ/giphy.gif">
-</p>
   
   Certificates | 
 --- | 
@@ -39,3 +38,5 @@
 <a href="https://softuni.bg/certificates/certificates/converttoimage/102681?code=0d6d7b5a" target="_blank">Entity Framework Core February 2021</a> |
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AtiVassileva&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+   
+</p>
