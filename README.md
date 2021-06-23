@@ -25,4 +25,8 @@
    <img width="200" height="150" src="https://media.giphy.com/media/WUTywPPYZpdDChyBaZ/giphy.gif">
 </p>
   
+  Attempt | #1 | #2 | #3 | #4 | #5 | #6 | #7 | #8 | #9 | #10 | #11
+--- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |---
+Seconds | 301 | 283 | 290 | 286 | 289 | 285 | 287 | 287 | 272 | 276 | 269
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AtiVassileva&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
