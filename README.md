@@ -1,7 +1,7 @@
 <p align="center">
    <br> <strong> 💻 Student at Software University </strong> 💻<br> <strong> 💯 C# and JavaScript Lover 💯 </strong>
       <br>
-   <img width="300" height="100" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
    <br>
            
    <img width="200" height="150" src="https://media.giphy.com/media/WUTywPPYZpdDChyBaZ/giphy.gif">
