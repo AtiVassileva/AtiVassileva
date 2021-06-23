@@ -3,10 +3,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AtiVassileva&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AtiVassileva)
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AtiVassileva&repo=github-readme-stats" />
-
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AtiVassileva&repo=convoychat" />
-
 
 
 - 🔭 I’m currently working on ...
