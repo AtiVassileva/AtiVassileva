@@ -1,5 +1,4 @@
 ### Hello, welcome to my Github!
-
 <p align="center">
    <br> <strong> 💻 Student at Software University </strong> 💻<br>
    <strong>💯 My stack: </strong>
