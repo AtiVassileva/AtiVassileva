@@ -25,14 +25,8 @@
    <img width="200" height="150" src="https://media.giphy.com/media/WUTywPPYZpdDChyBaZ/giphy.gif">
   </p>
   
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=AtiVassileva&theme=dark" />
-</a>
-<br>
-<br>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtiVassileva&layout=compact&theme=dark" />
-</a>
+  <img height="130" align="left" src="https://github-readme-stats.vercel.app/api?username=AtiVassileva&count_private=true&theme=dark&hide=prs&show_icons=true" />
+  <img height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtiVassileva&layout=compact&theme=dark" />
 
 
 
