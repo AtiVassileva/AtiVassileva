@@ -25,8 +25,9 @@
    <img width="200" height="150" src="https://media.giphy.com/media/WUTywPPYZpdDChyBaZ/giphy.gif">
    <br>
    <br>
-   <img height="140" align="left" src="https://github-readme-stats.vercel.app/api?username=AtiVassileva&count_private=true&theme=dark&hide=prs&show_icons=true" />
-  <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtiVassileva&layout=compact&theme=dark" />
+  
+  <img height="140" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtiVassileva&layout=compact&theme=dark" />
+   <img height="140" src="https://github-readme-stats.vercel.app/api?username=AtiVassileva&count_private=true&theme=dark&hide=prs&show_icons=true" />
   </p>
   
 
