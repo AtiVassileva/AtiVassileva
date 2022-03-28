@@ -1,6 +1,6 @@
 ### 👋 Hello, welcome to my Github!
 <p align="center">
-   <strong> 💻 Student at Software University </strong> 💻<br>
+   <strong> 💻 .NET Developer </strong> 💻<br>
    <br>
    <strong>💯 My stack: </strong>
    <br>
